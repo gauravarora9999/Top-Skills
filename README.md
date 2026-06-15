@@ -10,6 +10,7 @@ models, and agent harnesses. Download a skill, drop it into your platform, and g
 | Skill | What it does | Status |
 |-------|--------------|--------|
 | [mega-meta-prompt](./mega-meta-prompt) | Turns any raw prompt into a hardened, production-grade prompt using merged Anthropic + OpenAI + Google best practices | Stable (v1.0.0) |
+| [loop-generator](./loop-generator) | Converts any prompt or task into a loop-engineered agentic workflow with Discover/Plan/Execute/Verify/Iterate stages, a hard Verify gate, and a declared Stop Condition | Stable (v1.0.0) |
 
 ## How these skills are built
 
